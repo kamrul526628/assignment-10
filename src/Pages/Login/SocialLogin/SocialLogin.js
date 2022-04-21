@@ -34,14 +34,14 @@ const SocialLogin = () => {
             <div className=''>
                 <button
                     onClick={() => signInWithGoogle()}
-                    className='btn btn-info w-50 d-block mx-auto my-2'>
+                    className='btn btn-primary w-50 d-block mx-auto my-2'>
                     <img style={{ width: '30px' }} src="https://i.ibb.co/5Wk7fPc/google-logo-png-suite-everything-you-need-know-about-google-newest-0-removebg-preview.png" alt="" />
                     <span className='px-2'>Google Sign In</span>
                 </button>
                 
                 <button
                     onClick={() => signInWithGithub()}
-                    className='btn btn-info w-50 d-block mx-auto'>
+                    className='btn btn-primary w-50 d-block mx-auto'>
                     <img style={{ width: '30px' }} src="https://i.ibb.co/DMPmMgK/Git-Hub-Mark-removebg-preview.png" alt="" />
                     <span className='px-2'>Github Sign In</span>
                 </button>

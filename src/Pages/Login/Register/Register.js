@@ -12,9 +12,9 @@ const Register = () => {
         createUserWithEmailAndPassword,
         user,
         loading,
-        error,
+       
     ] = useCreateUserWithEmailAndPassword(auth, {sendEmailVerification: true});
-    const [updateProfile, updating, updateError] = useUpdateProfile(auth);
+    const [updateProfile, updating,] = useUpdateProfile(auth);
 
     const navigate = useNavigate();
 
@@ -35,7 +35,7 @@ const Register = () => {
         const name = event.target.name.value;
         const email = event.target.email.value;
         const password = event.target.password.value;
-        // const agree = event.target.terms.checked;
+        
 
         await createUserWithEmailAndPassword(email, password);
         await updateProfile({ displayName: name });
@@ -53,8 +53,8 @@ const Register = () => {
 
                 <input type="password" name="password" id="" placeholder='Password' required />
                 <input onClick={() => setAgree(!agree)} type="checkbox" name="terms" id="terms" />
-                {/* <label className={agree ? 'ps-2': 'ps-2 text-danger'} htmlFor="terms">Accept Genius Car Terms and Conditions</label> */}
-                <label className={`ps-2 ${agree ? '' : 'text-danger'}`} htmlFor="terms">Accept Genius Car Terms and Conditions</label>
+                
+                <label className={`ps-2 ${agree ? '' : 'text-danger'}`} htmlFor="terms">Accept ARphotography Terms and Conditions</label>
                 <input
                     disabled={!agree}
                     className='w-50 mx-auto btn btn-primary mt-2'
