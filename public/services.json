@@ -1,44 +1,44 @@
 [
     {
         "id": 1,
-        "name": "ENGINE DIAGNOSTIC",
-        "price": "300",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
-        "img": "https://i.ibb.co/dGDkr4v/1.jpg"
+        "name": "Engagement Photography",
+        "price": "7,000 TK",
+        "description": "Want to try us out first? You can book an engagement session for 4:30 hours of shooting time with unlimited photos and wardrobe changes",
+        "img": "https://arphotography.co/wp-content/uploads/2020/03/arfa-12-scaled-1800x1200.jpg"
     },
     {
         "id": 2,
-        "name": "WHEEL ALIGNMENT",
-        "price": "100",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
-        "img": "https://i.ibb.co/tY8dmnP/2.jpg"
+        "name": "Birthday Photography",
+        "price": "9,000 TK",
+        "description": "We also offer birthday photography which will make your day more specialWith unlimited location and photos",
+        "img": "https://arphotography.co/wp-content/uploads/2020/03/Ultimate-1-1800x1200.jpg"
     },
     {
         "id": 3,
-        "name": "OIL CHANGING",
-        "price": "150",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
-        "img": "https://i.ibb.co/Yh04YVw/3.jpg"
+        "name": "Wedding Photography",
+        "price": "10,000 TK",
+        "description": "Sometimes, all you can take are memories But if you’re lucky enough to capture the wedding moment, it lives forever, immortally fixed",
+        "img": "https://arphotography.co/wp-content/uploads/2020/03/AR-72-scaled-1800x1200.jpg"
     },
     {
         "id": 4,
-        "name": "BRAKE REPARING",
-        "price": "180",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
-        "img": "https://i.ibb.co/ZX2Cbkn/4.jpg"
+        "name": "Mateinaty Photography",
+        "price": "10,000 TK",
+        "description": "We also offer 3 Hours maternity Sessions With unlimited location and photos, We will make sure that you will be comfortable",
+        "img": "https://arphotography.co/wp-content/uploads/2020/03/baby2-1800x1200.jpg"
     },
     {
         "id": 5,
-        "name": "WASH AND GLASSING",
-        "price": "100",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
-        "img": "https://i.ibb.co/FgQ3jXp/5.jpg"
+        "name": "Graduate Photography",
+        "price": "10,000 TK",
+        "description": "We offer graduate photography session with unlimited photos and also you can add your max 20 graduate friends ",
+        "img": "https://arphotography.co/wp-content/uploads/2020/03/a22-4-scaled-1800x1200.jpg"
     },
     {
         "id": 6,
-        "name": "COMPLETE ANALYSIS",
-        "price": "300",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa",
-        "img": "https://i.ibb.co/zJy5ZDd/6.jpg"
+        "name": "Product Photography",
+        "price": "9,000 TK",
+        "description": "We offer product photography session with unlimited items and unlimited photos",
+        "img": "https://arphotography.co/wp-content/uploads/2020/03/post-Wed-2-scaled-1800x1200.jpg"
     }
 ]
